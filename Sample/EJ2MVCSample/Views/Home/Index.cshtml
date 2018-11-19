@@ -1,0 +1,10 @@
+﻿@using Syncfusion.EJ2;
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    @Html.EJS().CircularGauge("container", (Syncfusion.EJ2.CircularGauge.CircularGauge)ViewData["GaugeModel"]).Render(); 
+</div>
+<script>
+</script>
