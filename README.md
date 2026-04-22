@@ -1,6 +1,6 @@
 # How to get data from database for ASP.NET MVC Circular Gauge and render gauge from code behind
 
-Repository description: Sample ASP.NET MVC project demonstrating fetching gauge data from a database and rendering a Circular Gauge from server-side code.
+Sample ASP.NET MVC project demonstrating fetching gauge data from a database and rendering a Circular Gauge from server-side code.
 
 This sample explains how to get data for an ASP.NET MVC Circular Gauge from a database and render the gauge from code-behind.
 
